@@ -1,5 +1,7 @@
 # GamerRaven
 
+> *"Developing proficiency in programming and expanding personal expertise through the implementation of individual projects."*
+
 Discord:
 [GamerRaven#0001](https://www.discord.com)
 
