@@ -2,8 +2,6 @@
 
 > *"Developing proficiency in programming and expanding personal expertise through the implementation of individual projects."*
 
-If you believe our projects have similarities, please don't hesitate to invite me. I'm open to collaborating without any cost :)
-
 Discord:
 [GamerRaven#0001](https://www.discord.com)
 
