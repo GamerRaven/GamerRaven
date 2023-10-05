@@ -3,7 +3,7 @@
 > *"Developing proficiency in programming and expanding personal expertise through the implementation of individual projects."*
 
 Discord:
-[GamerRaven#0001](https://www.discord.com)
+[GamerRaven](https://www.discord.com)
 
 Databases  
 ![mongoDB](https://github.com/GamerRaven/GamerRaven/blob/main/mongoDB.png?raw=true)
