@@ -1,6 +1,7 @@
 # GamerRaven
 
-Hobby programmer
+Hobby Programmer
+
 Discord:
 [GamerRaven](https://www.discord.com)
 
