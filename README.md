@@ -1,7 +1,6 @@
 # GamerRaven
 
-> *"Developing proficiency in programming and expanding personal expertise through the implementation of individual projects."*
-
+Hobby programmer
 Discord:
 [GamerRaven](https://www.discord.com)
 
