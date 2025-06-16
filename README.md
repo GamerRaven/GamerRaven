@@ -1,4 +1,4 @@
 # GamerRaven
 
 Discord:
-[GamerRaven](https://www.discord.com)
+[gamerraven](https://www.discord.com)
